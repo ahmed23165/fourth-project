@@ -1,0 +1,22 @@
+.navs28 p{
+    font-size: 55%;
+ }
+
+.navs33{
+    display: flex;
+
+    justify-content: center;
+    text-align: center;
+
+    padding-top: 2rem;
+}
+.navs31{
+        margin-left: -2rem;
+        margin-top: 5rem;
+        width: 25%;
+    
+}
+.navs34{
+    margin-top: 5rem;
+    width: 25%;
+}

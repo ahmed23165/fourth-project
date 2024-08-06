@@ -1,0 +1,36 @@
+
+.navbar72{
+    
+    display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.navbar72 img{
+    width: 10rem;
+}
+.navbar74{
+    display: flex;
+    justify-content: center;
+gap: 4rem;
+   margin-top: 6rem;
+}
+.navbar74 h5{
+    text-align: center;
+}
+.navbar68{
+    width: 8rem;
+}
+.navbar66{
+    width: 8rem;
+}
+.navbar67{
+    width: 8rem;
+}
+.navbar70{
+    width: 8rem;
+    
+}
+.navbar74 p{
+    font-size: 0.6rem;
+}

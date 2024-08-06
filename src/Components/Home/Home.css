@@ -1,0 +1,26 @@
+.kilo1{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    
+}
+.kilo23{
+    text-decoration: none;
+}
+.jk2{
+    margin-top: 05px;
+    list-style: none;
+    text-decoration: none;
+    width: 180px;
+    padding-top: -3px;
+
+    font-size: 20px;
+    height: 30px;
+    color: black;
+    
+    border-radius: 10px;
+}
+.whatsap{
+    width: 40px;
+     text-align: center;    
+}

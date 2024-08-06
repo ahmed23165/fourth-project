@@ -1,0 +1,25 @@
+.navbars96{
+    display: flex;
+    justify-content: center;
+gap: 4rem;
+   margin-top: 6rem;
+}
+.navbars96 h5{
+    text-align: center;
+}
+.navbar109{
+    width: 8rem;
+}
+.navbar106{
+    width: 8rem;
+}
+.navbar107{
+    width: 8rem;
+}
+.navbar108{
+    width: 8rem;
+    
+}
+.navbars96 p{
+    font-size: 0.6rem;
+}

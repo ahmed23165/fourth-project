@@ -1,0 +1,26 @@
+.navbar84{
+    display: flex;
+
+    justify-content: center;
+    gap: 6rem;
+    margin-top: 6rem;
+     
+}
+.navbar84 h5{
+    text-align: center;
+}
+.navbar86{
+    width: 8rem;
+}
+.navbar87{
+    width: 8rem;
+}
+.navbar88{
+    width: 8rem;
+}
+.navbar89{
+    width: 8rem;
+}
+.navbar84 p{
+    font-size: 0.6rem;
+}
